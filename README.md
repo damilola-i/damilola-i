@@ -45,14 +45,9 @@ My curiosity for how systems are protected from unauthorized access led to my in
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://github.com/damilola-i/Certificates/blob/f272dd8876e77e62ae4beec501683ee31b75e904/pdf.pdf">Axia</a>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/damilola-i/Certificates/blob/f272dd8876e77e62ae4beec501683ee31b75e904/pdf.pdf">• Axia Africa Cybersecurity Certificate of Completion</a>
+
 </div>
 
 ## Projects
