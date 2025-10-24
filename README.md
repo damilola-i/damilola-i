@@ -9,20 +9,15 @@ I am a recent graduate, Cybersecurity Analyst (SOC Tier 1) with a profound inter
 My curiosity for how systems are protected from unauthorized access led to my interest in Cybersecurity. Now, I am eager to contribute to buiding a safer digtal environment by applying my skills in security monitoriing, vulnerability analysis and incident response while gaining professonal experience in a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Applying Cryptography In Real-World Scenarios
-| Building A Small Secure Network
-| Network Traffic Monitoring and Attack Detection
+| Applying Cryptography In Real-World Scenarios |
+| Building A Small Secure Network               |
+| Network Traffic Monitoring and Attack Detection 
+| File Transfer Protocol(FTP) VS Secure File Transfer Protocol(SFTP) | 
 | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
