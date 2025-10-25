@@ -46,8 +46,10 @@ My curiosity for how systems are protected from unauthorized access led to my in
 
 ## Certifications
 <div>
-<a href="https://github.com/damilola-i/Certificates/blob/f272dd8876e77e62ae4beec501683ee31b75e904/pdf.pdf">• Axia Africa Cybersecurity Certificate of Completion</a>
 
+  <a href="https://github.com/damilola-i/Certificates/blob/358e9837ecd664d2c861430dcf20c6c0c4d8d9dd/Cisco%20networking%20basics.jpg">• Cisco Networking Basics</a>
+ 
+  <a href="https://github.com/damilola-i/Certificates/blob/f272dd8876e77e62ae4beec501683ee31b75e904/pdf.pdf">• Axia Africa Cybersecurity Certificate of Completion</a>
 </div>
 
 ## Projects
