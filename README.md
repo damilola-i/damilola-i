@@ -10,12 +10,12 @@ My curiosity for how systems are protected from unauthorized access led to my in
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         |  Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/damilola-i/Projects/blob/68a362ee35121157077916e78d0d8cee594c9e17/SIEM%20IMPLEMENTATION%20AND%20LOG%20ANALYSIS%20WITH%20SPLUNK.pdf">Associated Project</a>|
 | Applying Cryptography In Real-World Scenarios | <a href="https://github.com/damilola-i/Projects/blob/3c0f47e77c5c793e0af3f114a0babf3184a50f41/Applying%20cryptography%20in%20real-world%20scenarios.pdf">Associated Project</a>
 | Building A Small Secure Network               | <a href="https://github.com/damilola-i/Projects/blob/e654e8312b9ede0ef011a484361015c8e2771881/Building%20a%20small%20secure%20network%20.pdf">Associated Project</a>
-| Network Traffic Monitoring and Attack Detection 
+| Web Application Security | <a href="https://github.com/damilola-i/Projects/blob/74487e70886b637d9ffd35dc531d59b87bd3b73f/Web%20Application%20Security.pdf">Associated Project</a>
 | File Transfer Protocol(FTP) VS Secure File Transfer Protocol(SFTP) | <a href="https://github.com/damilola-i/Projects/blob/b7a97ad8ec3c5be6ee42a57c2b52e6505095ac28/FTP%20VS%20SFTP.pdf">Associated Project</a>
 ## Tools
 
