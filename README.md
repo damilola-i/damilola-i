@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/damisimisola"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate, Cybersecurity Analyst (SOC Tier 1) with a profound interest in protecting systems, analyzing threats and responding to threats with precision. This repository showcases my Cybersecurity projects, tools  and sklls built from continuous learning and hands-on practice.
+I am a recent graduate, Cybersecurity Analyst (SOC Tier 1) with a profound interest in protecting systems, analyzing threats and responding to threats with precision. This repository showcases my Cybersecurity projects, tools  and skills built from continuous learning and hands-on practice.
 
 ## Objective
 
@@ -19,7 +19,6 @@ My curiosity for how systems are protected from unauthorized access led to my in
 | File Transfer Protocol(FTP) VS Secure File Transfer Protocol(SFTP) | 
 | <a href="https://google.com">Detection Lab</a>|
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
