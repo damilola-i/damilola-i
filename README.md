@@ -13,7 +13,7 @@ My curiosity for how systems are protected from unauthorized access led to my in
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Applying Cryptography In Real-World Scenarios |
+| Applying Cryptography In Real-World Scenarios | <a href="https://github.com/damilola-i/Projects/blob/3c0f47e77c5c793e0af3f114a0babf3184a50f41/Applying%20cryptography%20in%20real-world%20scenarios.pdf">Associated Project</a>
 | Building A Small Secure Network               | <a href="https://github.com/damilola-i/Projects/blob/e654e8312b9ede0ef011a484361015c8e2771881/Building%20a%20small%20secure%20network%20.pdf">Associated Project</a>
 | Network Traffic Monitoring and Attack Detection 
 | File Transfer Protocol(FTP) VS Secure File Transfer Protocol(SFTP) | 
