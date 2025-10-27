@@ -50,7 +50,3 @@ My curiosity for how systems are protected from unauthorized access led to my in
 
  <a href="https://github.com/damilola-i/Certificates/blob/f272dd8876e77e62ae4beec501683ee31b75e904/pdf.pdf">• Axia Africa Cybersecurity Certificate of Completion</a>
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
